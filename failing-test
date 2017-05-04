@@ -1,4 +1,4 @@
 #!/usr/bin/php
 <?php
 
-exit(1);
+exit(0);
