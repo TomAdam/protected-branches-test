@@ -6,4 +6,3 @@ machine:
 test:
   override:
   - ./passing-test
-  - ./failing-test
