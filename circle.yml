@@ -1,0 +1,9 @@
+machine:
+  timezone: Europe/London
+  php:
+    version: 7.1.3
+
+test:
+  override:
+  - ./passing-test
+  - ./failing-test
